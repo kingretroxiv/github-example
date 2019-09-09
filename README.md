@@ -1,2 +1,2 @@
-# github-example
-This repository is an example of how github repository is set up
+# Coursera_Capstone
+Capstone Project Notebook
